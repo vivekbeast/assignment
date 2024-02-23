@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/assignment/static/css/main.2d69ce33.css",
+    "main.js": "/assignment/static/js/main.9064f1d9.js",
+    "static/media/person3.jpeg": "/assignment/static/media/person3.9cd1ac751ef1d6e1103b.jpeg",
+    "static/media/car.jpeg": "/assignment/static/media/car.2a790c4f9d4ecb54f1ea.jpeg",
+    "static/media/person2.jpeg": "/assignment/static/media/person2.a872aedffa3c6259db2c.jpeg",
+    "static/media/jpeg": "/assignment/static/media/7d56a759ac56bc165f65c40094aba4e8.e54a712f6275234110d7.jpeg",
+    "static/media/seccc.jpeg": "/assignment/static/media/seccc.ca045a47cdd03b6cfc49.jpeg",
+    "static/media/person4.jpeg": "/assignment/static/media/person4.9e8539ece0a03fe0d1ae.jpeg",
+    "static/media/person.jpeg": "/assignment/static/media/person.8ff8003dcab591c658f4.jpeg",
+    "static/media/Screenshot 2024-02-21 230731.png": "/assignment/static/media/Screenshot 2024-02-21 230731.1cc2d8265e291fa049a3.png",
+    "index.html": "/assignment/index.html",
+    "main.2d69ce33.css.map": "/assignment/static/css/main.2d69ce33.css.map",
+    "main.9064f1d9.js.map": "/assignment/static/js/main.9064f1d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d69ce33.css",
+    "static/js/main.9064f1d9.js"
+  ]
+}
